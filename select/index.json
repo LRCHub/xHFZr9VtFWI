@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "三千娑界の御詠歌",
+  "base_artist": "HOYO-MiX",
+  "createdAt": "2026-03-14T10:13:36.072825Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "三千娑界の御詠歌",
+      "artist": "HOYO-MiX",
+      "has_synced": true,
+      "path": "select/01_三千娑界の御詠歌_HOYO-MiX.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "三千娑界の御詠歌",
+      "artist": "HOYO-MiX",
+      "has_synced": false,
+      "path": "select/pl_01_三千娑界の御詠歌_HOYO-MiX.txt"
+    }
+  ]
+}
